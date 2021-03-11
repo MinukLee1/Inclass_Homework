@@ -15,4 +15,6 @@
 
 ### Commiting 수행결과 출력화면
 
-![0311_image1](https://user-images.githubusercontent.com/74412438/110743839-0bc5cc80-827c-11eb-958d-6fd89138f65c.png)
+![0311_image1](https://user-images.githubusercontent.com/74412438/110744218-aa522d80-827c-11eb-8798-2ba100e6ac82.png)
+
+
