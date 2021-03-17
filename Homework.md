@@ -22,7 +22,7 @@
 
 <br>
 
-## Week2-2 
+## Week3 
 ### LifeCycle 출력 확인 동영상 
 
 https://youtu.be/699MSBYXO6Q
