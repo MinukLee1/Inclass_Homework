@@ -20,4 +20,9 @@
 
 ![0311_image1](https://user-images.githubusercontent.com/74412438/110744218-aa522d80-827c-11eb-8798-2ba100e6ac82.png)
 
+<br>
 
+## Week2-2 
+### LifeCycle 출력 확인 동영상 
+
+https://youtu.be/699MSBYXO6Q
